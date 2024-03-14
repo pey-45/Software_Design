@@ -1,2 +1,3 @@
 # Software_Design
-Prácticas de Diseño Software
+
+Prácticas de programación orientada a objetos de la asignatura de diseño software.
